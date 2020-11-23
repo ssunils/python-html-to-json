@@ -8,8 +8,8 @@ Run
 `python3 -m venv venv` to setup a virtual environment
 `python3 -m flask run` to run the application
 
-API can be accessed in `http://localhost:5000`
+API can be accessed in `http://127.0.0.1:5000/`
 
-### From Developers
+### From Developer
 Made with :heart: by [Sunil Soundarapandian](https://sdesigns.co.in/). Follow me on [Twitter](https://twitter.com/sunil_designer) to get the latest news first!
 I am always happy to receive your feedback!
